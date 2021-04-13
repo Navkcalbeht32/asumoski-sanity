@@ -19,6 +19,11 @@ export default {
         type: 'url',
       },
       {
+        name: 'live',
+        title: 'Live Link',
+        type: 'url',
+      },
+      {
         name: 'slug',
         title: 'Slug',
         type: 'slug',
